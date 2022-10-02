@@ -304,6 +304,7 @@ text-transform: capitalize;
 .destinations{
     height:456px ;
     border-radius: 25px;
+    transition: .25s ease;
 }
 .destinations:hover{
     -webkit-box-shadow: -18px 7px 26px 10px rgba(0,0,0,0.24); 
